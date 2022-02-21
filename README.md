@@ -1,5 +1,5 @@
 # crwn-clothing
 
-E-Commerce website using React | Redux 
+E-Commerce website using React | Redux | Firebase
 
-link- https://myclothing24.herokuapps.com
+link- https://competent-kilby-2f8b09.netlify.app/
